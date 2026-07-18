@@ -60,18 +60,6 @@ A modern car dealership platform designed with a premium automotive feel.
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Wunyo99&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wunyo99&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
