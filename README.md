@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Frontend Developer** passionate about building modern, responsive, and visually appealing web applications.
 
@@ -21,7 +21,7 @@ Currently focused on:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -37,7 +37,7 @@ Currently focused on:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🚗 DriveX — Luxury Car Dealership Website
 
@@ -68,7 +68,7 @@ A modern car dealership platform designed with a premium automotive feel.
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Advanced React patterns
 - Frontend performance optimization
