@@ -26,7 +26,13 @@ Currently focused on:
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### Tools & Workflow
