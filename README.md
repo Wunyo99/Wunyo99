@@ -104,5 +104,5 @@ A modern car dealership platform designed with a premium automotive feel.
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 </p>
