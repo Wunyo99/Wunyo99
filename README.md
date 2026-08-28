@@ -45,7 +45,7 @@ Currently focused on:
 
 ##  Featured Projects
 
-### 🚗 DriveX — Luxury Car Dealership Website
+### DriveX — Luxury Car Dealership Website
 
 A modern car dealership platform designed with a premium automotive feel.
 
