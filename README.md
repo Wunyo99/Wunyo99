@@ -83,7 +83,7 @@ A modern car dealership platform designed with a premium automotive feel.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p>
 <a href="https://www.linkedin.com/in/mawunyo-anani-6a87643a2/">
