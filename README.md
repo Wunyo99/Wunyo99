@@ -15,7 +15,7 @@ I enjoy turning ideas into polished digital experiences using clean code, though
 Currently focused on:
 
 - React.js development
-- 🎨 Creating beautiful user interfaces
+- Creating beautiful user interfaces
 - 🚀 Building real-world projects
 - 📚 Improving frontend architecture and best practices
 
