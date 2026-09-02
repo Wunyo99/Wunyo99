@@ -16,7 +16,7 @@ Currently focused on:
 
 - React.js development
 - Creating beautiful user interfaces
-- 🚀 Building real-world projects
+- Building real-world projects
 - 📚 Improving frontend architecture and best practices
 
 ---
