@@ -66,7 +66,7 @@ A modern car dealership platform designed with a premium automotive feel.
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Wunyo99&theme=tokyonight&hide_border=true" />
