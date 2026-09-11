@@ -58,7 +58,7 @@ A modern car dealership platform designed with a premium automotive feel.
 
 **Features:**
 
-✅ Responsive design  
+✅Responsive design  
 ✅ Modern animations  
 ✅ Car showcase system  
 ✅ Premium UI components  
